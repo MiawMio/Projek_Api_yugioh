@@ -1,4 +1,4 @@
-# anime_quotes_app
+# Battle Card
 
 A new Flutter project.
 
